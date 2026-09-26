@@ -104,8 +104,8 @@
           "s": true
         },
         "g1i6": {
-          "w": true,
-          "s": false
+          "w": false,
+          "s": true
         },
         "g1i7": {
           "w": true,
@@ -164,8 +164,8 @@
           "s": false
         },
         "g2i2": {
-          "w": false,
-          "s": true
+          "w": true,
+          "s": false
         },
         "g2i3": {
           "w": true,
@@ -192,8 +192,8 @@
           "s": false
         },
         "g2i9": {
-          "w": true,
-          "s": false
+          "w": false,
+          "s": true
         },
         "g2i10": {
           "w": true,
@@ -268,8 +268,8 @@
           "s": false
         },
         "g3i17": {
-          "w": true,
-          "s": false
+          "w": false,
+          "s": true
         },
         "g3i18": {
           "w": true,
@@ -468,8 +468,8 @@
           "s": true
         },
         "g4i44": {
-          "w": true,
-          "s": false
+          "w": false,
+          "s": true
         },
         "g4i45": {
           "w": true,
@@ -488,7 +488,7 @@
           "s": false
         },
         "g4i49": {
-          "w": true,
+          "w": false,
           "s": true
         },
         "g5i0": {
@@ -508,7 +508,7 @@
           "s": false
         },
         "g5i4": {
-          "w": false,
+          "w": true,
           "s": true
         },
         "g5i5": {
@@ -584,8 +584,8 @@
           "s": false
         },
         "g6i2": {
-          "w": true,
-          "s": false
+          "w": false,
+          "s": true
         },
         "g6i3": {
           "w": false,
@@ -836,7 +836,7 @@
           "s": true
         }
       },
-      "updatedAt": 1790384433739
+      "updatedAt": 1790386895673
     },
     "p2": {
       "name": "Player 2",
@@ -845,5 +845,5 @@
     }
   },
   "reactions": [],
-  "savedAt": 1790384440017
+  "savedAt": 1790386923569
 }
