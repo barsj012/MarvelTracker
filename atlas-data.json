@@ -665,59 +665,59 @@
         },
         "g7i0": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i1": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i2": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i3": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i4": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i5": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i6": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i7": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i8": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i9": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i10": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i11": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i12": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g7i13": {
           "w": false,
-          "s": true
+          "s": false
         },
         "g8i0": {
           "w": false,
@@ -836,7 +836,7 @@
           "s": true
         }
       },
-      "updatedAt": 1790386895673
+      "updatedAt": 1790388318628
     },
     "p2": {
       "name": "Player 2",
@@ -845,5 +845,5 @@
     }
   },
   "reactions": [],
-  "savedAt": 1790386923569
+  "savedAt": 1790388327214
 }
