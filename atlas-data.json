@@ -844,6 +844,27 @@
       "updatedAt": 0
     }
   },
-  "reactions": [],
-  "savedAt": 1790388586792
+  "reactions": [
+    {
+      "id": "r_muhq9am125mjc",
+      "type": "trash",
+      "posterKey": "p1",
+      "name": "Jess",
+      "targetKey": "p2",
+      "targetName": "Player 2",
+      "line": "Thanos had a plan. You have unfinished episodes. 😤",
+      "ts": 1790387108857
+    },
+    {
+      "id": "r_muhq97f71gprg",
+      "type": "hype",
+      "posterKey": "p1",
+      "name": "Jess",
+      "targetKey": "p2",
+      "targetName": "Player 2",
+      "line": "Multiverse secured. 🌌",
+      "ts": 1790387104723
+    }
+  ],
+  "savedAt": 1790389585808
 }
