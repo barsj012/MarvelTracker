@@ -2,8 +2,85 @@
   "profiles": {
     "p1": {
       "name": "Jess",
-      "state": {},
-      "updatedAt": 0
+      "state": {
+        "g0i0": {
+          "w": true,
+          "s": true
+        },
+        "g0i1": {
+          "w": true,
+          "s": true
+        },
+        "g0i2": {
+          "w": true,
+          "s": true
+        },
+        "g0i3": {
+          "w": true,
+          "s": true
+        },
+        "g0i4": {
+          "w": true,
+          "s": true
+        },
+        "g0i5": {
+          "w": true,
+          "s": true
+        },
+        "g0i6": {
+          "w": true,
+          "s": true
+        },
+        "g0i7": {
+          "w": true,
+          "s": true
+        },
+        "g0i8": {
+          "w": true,
+          "s": true
+        },
+        "g0i9": {
+          "w": true,
+          "s": true
+        },
+        "g0i10": {
+          "w": true,
+          "s": true
+        },
+        "g0i11": {
+          "w": true,
+          "s": true
+        },
+        "g0i12": {
+          "w": true,
+          "s": true
+        },
+        "g0i13": {
+          "w": true,
+          "s": true
+        },
+        "g0i14": {
+          "w": true,
+          "s": true
+        },
+        "g0i15": {
+          "w": true,
+          "s": true
+        },
+        "g0i16": {
+          "w": true,
+          "s": true
+        },
+        "g0i17": {
+          "w": true,
+          "s": true
+        },
+        "g0i18": {
+          "w": true,
+          "s": true
+        }
+      },
+      "updatedAt": 1790382498366
     },
     "p2": {
       "name": "Player 2",
@@ -12,5 +89,5 @@
     }
   },
   "reactions": [],
-  "savedAt": 1790382391480
+  "savedAt": 1790383437029
 }
