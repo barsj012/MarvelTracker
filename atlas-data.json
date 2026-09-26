@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "p1": {
+      "name": "Jess",
+      "state": {},
+      "updatedAt": 0
+    },
+    "p2": {
+      "name": "Player 2",
+      "state": {},
+      "updatedAt": 0
+    }
+  },
+  "reactions": [],
+  "savedAt": 1790382387287
+}
